@@ -1,3 +1,3 @@
-# WS2017-18
+# WS2017-18 EPR
 Studiumaufgaben
-Hier werde ich alle Java Aufgaben aus dem Studium bearbeiten
+Hier werde ich alle Java Aufgaben für das Fach EPR aus dem Studium bearbeiten
